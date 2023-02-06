@@ -71,6 +71,7 @@ hr{
 
 .how{
     text-align: center;
+    margin-top: 2%;
 }
 
 .lorem{
@@ -170,7 +171,8 @@ li{
     margin-left: 22%;
     border-radius: 25px;
     margin-right: 20%;
-    margin-top: 40px;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
 
   .payment-list{
